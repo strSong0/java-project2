@@ -1,4 +1,4 @@
-package com.example.javaproject2.algorithm;
+package com.example.javaproject2.week5.day1;
 
 public class BubbleSort03 {
     public static void main(String[] args) {
